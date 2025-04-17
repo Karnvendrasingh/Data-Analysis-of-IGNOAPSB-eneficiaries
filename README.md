@@ -58,7 +58,7 @@ This project explores a real-world **beneficiary dataset** using **Pandas**, **M
 ### ▶️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/beneficiary-analysis.git
+   git clone https://github.com/Karnvendrasingh/beneficiary-analysis.git
    cd beneficiary-analysis
    ```
 2. Install dependencies:
