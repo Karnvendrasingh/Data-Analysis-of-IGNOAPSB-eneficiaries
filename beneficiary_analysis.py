@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+#
 data = pd.read_csv('C:/Users/karnv/OneDrive/Desktop/code/Project/py/py/Dataset.csv')
 print(data.head())
 print(data.info())
